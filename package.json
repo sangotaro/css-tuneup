@@ -1,0 +1,17 @@
+{
+  "name": "css-tuneup",
+  "version": "0.0.1",
+  "description": "tune up your css automatically",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css",
+    "performance",
+    "tuning",
+    "ast"
+  ],
+  "author": "Sota Yamashita",
+  "license": "MIT"
+}
