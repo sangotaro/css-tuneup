@@ -12,16 +12,22 @@ Tune up your CSS
 $ npm install css-tunup --save-dev
 ```
 
-## Feature & Docs
+## Features
 
 1. [ ] :construction: `position: fixed;` w/ `transform: translateZ(0)`
 2. [ ] Replace `top/left` with `transform: translate()` in animation or transition
 
-**1. `position: fixed;` w/ `transform: translateZ(0)`**
+## Docs
+
+### 1. `position: fixed;` w/ `transform: translateZ(0)`**
+
+**References**
 
 * [Using Chrome DevTools to profile the jsconf.eu site][1.1]
 
-**2. Replace `top/left` with `transform: translate()` in animation or transition**
+### 2. Replace `top/left` with `transform: translate()` in animation or transition**
+
+**References**
 
 * [Why Moving Elements With Translate() Is Better Than Pos:abs Top/left][2.1]
 
