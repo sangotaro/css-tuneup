@@ -1,6 +1,6 @@
 # CSS Tune Up
 
-[![npm package][npm-badge]][releases]
+[![npm package][npm-badge]][npm-pkg-link]
 [![][mit-badge]][mit]
 
 Tune up your CSS
