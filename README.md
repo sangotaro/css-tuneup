@@ -39,6 +39,6 @@ $ npm install css-tunup --save-dev
 [mit-badge]:      https://img.shields.io/github/license/sotayamashita/css-tuneup.svg?style=flat-square
 [npm-pkg-link]:   https://www.npmjs.org/package/css-tuneup
 [npm-badge]:      https://img.shields.io/npm/v/css-tuneup.svg?style=flat-square
-[dl-badge]:       http://img.shields.io/npm/dm/fly.svg?style=flat-square
+[dl-badge]:       http://img.shields.io/npm/dm/css-tuneup.svg?style=flat-square
 [me]:             https://github.com/sotayamashita
 
