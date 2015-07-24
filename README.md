@@ -19,13 +19,13 @@ $ npm install css-tunup --save-dev
 
 ## Docs
 
-### 1. `position: fixed;` w/ `transform: translateZ(0)`**
+### 1. `position: fixed;` w/ `transform: translateZ(0)`
 
 **References**
 
 * [Using Chrome DevTools to profile the jsconf.eu site][1.1]
 
-### 2. Replace `top/left` w/ `transform: translate()` in animation or transition**
+### 2. Replace `top/left` w/ `transform: translate()` in animation or transition
 
 **References**
 
