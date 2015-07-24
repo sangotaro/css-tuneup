@@ -1,6 +1,7 @@
 # CSS Tune Up
 
 [![npm package][npm-badge]][npm-pkg-link]
+[![][dl-badge]][npm-pkg-link]
 [![][mit-badge]][mit]
 
 Tune up your CSS
@@ -34,12 +35,10 @@ $ npm install css-tunup --save-dev
 
 [MIT][mit] © [Sota Yamashita][me]
 
-<!-- License -->
 [mit]:            https://github.com/sotayamashita/bdash/blob/master/LICENSE
 [mit-badge]:      https://img.shields.io/github/license/sotayamashita/css-tuneup.svg?style=flat-square
-<!-- NPM -->
 [npm-pkg-link]:   https://www.npmjs.org/package/css-tuneup
 [npm-badge]:      https://img.shields.io/npm/v/css-tuneup.svg?style=flat-square
-<!-- Me -->
+[dl-badge]:       http://img.shields.io/npm/dm/fly.svg?style=flat-square
 [me]:             https://github.com/sotayamashita
 
