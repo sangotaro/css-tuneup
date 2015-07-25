@@ -4,7 +4,7 @@
   "description": "tune up your css automatically",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "gulp"
   },
   "keywords": [
     "css",
@@ -12,6 +12,23 @@
     "tuning",
     "ast"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sotayamashita/css-tuneup"
+  },
+  "bugs": {
+    "url": "https://github.com/sotayamashita/css-tuneup/issues"
+  },
+  "homepage": "https://github.com/sotayamashita/css-tuneup",
   "author": "Sota Yamashita",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "coffee-script": "^1.9.3",
+    "css-parse": "^2.0.0",
+    "fs-plus": "^2.8.1"
+  },
+  "devDependencies": {
+    "coffeelint": "^1.10.1",
+    "gulp-load-plugins": "^0.10.0"
+  }
 }
