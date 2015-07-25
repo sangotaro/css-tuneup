@@ -15,10 +15,10 @@ $ npm install css-tunup --save-dev
 
 ## Features
 
-[ ] :construction: 1\. `position: fixed;` w/ `transform: translateZ(0)`
-[ ] 2\. Replace `top/left` w/ `transform: translate()` in animation or transition
+* [ ] :construction: 1\. `position: fixed;` w/ `transform: translateZ(0)`
+* [ ] 2\. Replace `top/left` w/ `transform: translate()` in animation or transition
 
-## Docs
+## Documentation
 
 ### 1. `position: fixed;` w/ `transform: translateZ(0)`
 
