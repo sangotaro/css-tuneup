@@ -7,7 +7,9 @@
 [![][travis-badge]][travis-link]
 [![][mit-badge]][mit]
 
-_Note: it is temporary repository. It will plan on merging into [css-tuning](https://github.com/morishitter/css-tuning). The reason why I develop it indivisually is to learn node.js and CSS to not suffer from original source._
+I have written about performance in GitHub but it is just documentation so I automate this action. 
+
+_Note: it is temporary repository. It will plan on merging into [css-tuning](https://github.com/morishitter/css-tuning). The reason why I develop it indivisually is to learn Node.js and CSS to not suffer from original source._
 
 ## Install
 
