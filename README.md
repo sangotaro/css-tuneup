@@ -2,6 +2,7 @@
 
 [![npm package][npm-badge]][npm-pkg-link]
 [![][dl-badge]][npm-pkg-link]
+[![][travis-badge]][travis-link]
 [![][mit-badge]][mit]
 
 Tune up your CSS
@@ -46,5 +47,7 @@ $ npm install css-tunup --save-dev
 [npm-pkg-link]:   https://www.npmjs.org/package/css-tuneup
 [npm-badge]:      https://img.shields.io/npm/v/css-tuneup.svg?style=flat-square
 [dl-badge]:       http://img.shields.io/npm/dm/css-tuneup.svg?style=flat-square
+[travis-badge]:   https://img.shields.io/travis/sotayamashita/css-tuneup.svg?style=flat-square
+[travis-link]:    https://travis-ci.org/sotayamashita/css-tuneup
 [me]:             https://github.com/sotayamashita
 
